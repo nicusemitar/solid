@@ -1,0 +1,6 @@
+ ➡️ Liskov Substitution
+
+This means that every subclass class should be substitutable for it base or parent class.
+
+The whole point is to show us when we need to use INHERITANCE and when we don’t need to use it.
+
